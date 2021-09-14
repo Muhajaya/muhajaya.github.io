@@ -3,11 +3,11 @@
   <title>TemenKerja</title>
   
   <subtitle>Berbagi tips dalam dunia kerja</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/temenkerja/atom.xml" rel="self"/>
   
-  <link href="https://temenkerja.my.id/"/>
-  <updated>2021-09-14T01:44:19.751Z</updated>
-  <id>https://temenkerja.my.id/</id>
+  <link href="https://muhajaya.github.io/temenkerja/"/>
+  <updated>2021-09-14T02:04:53.952Z</updated>
+  <id>https://muhajaya.github.io/temenkerja/</id>
   
   <author>
     <name>Muhajaya</name>
@@ -17,9 +17,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>first-post</title>
+    <link href="https://muhajaya.github.io/temenkerja/2021/09/14/first-post/"/>
+    <id>https://muhajaya.github.io/temenkerja/2021/09/14/first-post/</id>
+    <published>2021-09-14T02:04:53.000Z</published>
+    <updated>2021-09-14T02:04:53.952Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://temenkerja.my.id/2021/09/14/hello-world/"/>
-    <id>https://temenkerja.my.id/2021/09/14/hello-world/</id>
+    <link href="https://muhajaya.github.io/temenkerja/2021/09/14/hello-world/"/>
+    <id>https://muhajaya.github.io/temenkerja/2021/09/14/hello-world/</id>
     <published>2021-09-14T01:44:19.747Z</published>
     <updated>2021-09-14T01:44:19.751Z</updated>
     
