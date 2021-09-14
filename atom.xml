@@ -3,11 +3,11 @@
   <title>TemenKerja</title>
   
   <subtitle>Berbagi tips dalam dunia kerja</subtitle>
-  <link href="/temenkerja.my.id/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://muhajaya.github.io/temenkerja.my.id/"/>
+  <link href="https://temenkerja.my.id/"/>
   <updated>2021-09-14T01:44:19.751Z</updated>
-  <id>https://muhajaya.github.io/temenkerja.my.id/</id>
+  <id>https://temenkerja.my.id/</id>
   
   <author>
     <name>Muhajaya</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://muhajaya.github.io/temenkerja.my.id/2021/09/14/hello-world/"/>
-    <id>https://muhajaya.github.io/temenkerja.my.id/2021/09/14/hello-world/</id>
+    <link href="https://temenkerja.my.id/2021/09/14/hello-world/"/>
+    <id>https://temenkerja.my.id/2021/09/14/hello-world/</id>
     <published>2021-09-14T01:44:19.747Z</published>
     <updated>2021-09-14T01:44:19.751Z</updated>
     
