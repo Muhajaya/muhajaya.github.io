@@ -3,11 +3,11 @@
   <title>Muhajaya Blog</title>
   
   <subtitle>Berbagi aja</subtitle>
-  <link href="/Muhajaya/muhajaya.github.io/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://github.com/Muhajaya/muhajaya.github.io/"/>
+  <link href="https://muhajaya.github.io/"/>
   <updated>2021-09-14T01:44:19.751Z</updated>
-  <id>https://github.com/Muhajaya/muhajaya.github.io/</id>
+  <id>https://muhajaya.github.io/</id>
   
   <author>
     <name>Muhajaya</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/Muhajaya/muhajaya.github.io/2021/09/14/hello-world/"/>
-    <id>https://github.com/Muhajaya/muhajaya.github.io/2021/09/14/hello-world/</id>
+    <link href="https://muhajaya.github.io/2021/09/14/hello-world/"/>
+    <id>https://muhajaya.github.io/2021/09/14/hello-world/</id>
     <published>2021-09-14T09:45:33.184Z</published>
     <updated>2021-09-14T01:44:19.751Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>first-post</title>
-    <link href="https://github.com/Muhajaya/muhajaya.github.io/2021/09/14/first-post/"/>
-    <id>https://github.com/Muhajaya/muhajaya.github.io/2021/09/14/first-post/</id>
+    <link href="https://muhajaya.github.io/2021/09/14/first-post/"/>
+    <id>https://muhajaya.github.io/2021/09/14/first-post/</id>
     <published>2021-09-14T02:04:53.000Z</published>
     <updated>2021-09-14T02:04:53.952Z</updated>
     
