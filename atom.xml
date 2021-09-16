@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://muhajaya.github.io/"/>
-  <updated>2021-09-16T06:12:09.958Z</updated>
+  <updated>2021-09-16T07:09:50.647Z</updated>
   <id>https://muhajaya.github.io/</id>
   
   <author>
@@ -17,9 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Tes</title>
+    <link href="https://muhajaya.github.io/Tes-1/"/>
+    <id>https://muhajaya.github.io/Tes-1/</id>
+    <published>2021-09-16T07:09:00.000Z</published>
+    <updated>2021-09-16T07:09:50.647Z</updated>
+    
+    <content type="html"><![CDATA[<p>Post ini dibuat di hexo admin</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Post ini dibuat di hexo admin&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Kumpulan Tutorial Santoni Untuk Newbie</title>
-    <link href="https://muhajaya.github.io/2021/09/16/santoni-guide/"/>
-    <id>https://muhajaya.github.io/2021/09/16/santoni-guide/</id>
+    <link href="https://muhajaya.github.io/santoni-guide/"/>
+    <id>https://muhajaya.github.io/santoni-guide/</id>
     <published>2021-09-16T02:04:53.000Z</published>
     <updated>2021-09-16T06:12:09.958Z</updated>
     
@@ -40,8 +62,8 @@
   
   <entry>
     <title>Kumpulan Grup Telegram</title>
-    <link href="https://muhajaya.github.io/2021/09/14/kumpulan-grup-telegram/"/>
-    <id>https://muhajaya.github.io/2021/09/14/kumpulan-grup-telegram/</id>
+    <link href="https://muhajaya.github.io/kumpulan-grup-telegram/"/>
+    <id>https://muhajaya.github.io/kumpulan-grup-telegram/</id>
     <published>2021-09-14T02:04:53.000Z</published>
     <updated>2021-09-16T06:11:52.251Z</updated>
     
